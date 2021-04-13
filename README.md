@@ -1,13 +1,24 @@
 # vh-test-web
-Test Data and User Management Application
+Test Web is a test data and user management application to help manual testing and development.  
 
-[![Build Status](https://dev.azure.com/hmctsreform/VirtualHearings/_apis/build/status/hmcts.vh-test-web?branchName=master)](https://dev.azure.com/hmctsreform/VirtualHearings/_build/latest?definitionId=120&branchName=master)
+## Home
+<img width="1145" alt="Home hearing list" src="https://user-images.githubusercontent.com/10450246/114573088-5b7f2580-9c78-11eb-8264-d17efb74fbbb.png">
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vh-test-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=vh-test-web)
+## Create Data
+<img width="1043" alt="Create Hearing" src="https://user-images.githubusercontent.com/10450246/114573131-65088d80-9c78-11eb-954b-2323874c2e27.png">
+
+## Delete Data
+<img width="1027" alt="Delete Hearing" src="https://user-images.githubusercontent.com/10450246/114573167-6df95f00-9c78-11eb-930b-936c28fceb8c.png">
+
+## Events
+<img width="1113" alt="Events (with Transfers)" src="https://user-images.githubusercontent.com/10450246/114573329-941eff00-9c78-11eb-8d30-13e6be34be48.png">
+
+## Allocating a Test User
+<img width="1048" alt="Allocate users" src="https://user-images.githubusercontent.com/10450246/114573383-a0a35780-9c78-11eb-805b-122123e28c63.png">
 
 ## Updating client code via NSwag
 
-The poject is utilising NSwag to auto-generate client code for the front-end.
+The project is utilising NSwag to auto-generate client code for the front-end.
 
 ### Updating the front end Angular client code
 
